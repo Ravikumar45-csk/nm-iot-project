@@ -1,1 +1,1 @@
-# nm-iot-project
+# nm-ai-project
